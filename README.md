@@ -38,7 +38,8 @@ The API is structured with **three main routers**:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/bipinyadav01/Blog-api.git
+
 2 Install dependencies:
   npm install
   
